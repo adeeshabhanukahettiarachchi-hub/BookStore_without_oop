@@ -211,7 +211,7 @@ BookStore_without_oop/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/adeeshabhanukahettiarachchi-hub/BookStore_without_oop.git
+git clone  https://github.com/adeeshabhanukahettiarachchi-hub/BookStore_without_oop.git
 ```
 
 ### 2. Open the Project
